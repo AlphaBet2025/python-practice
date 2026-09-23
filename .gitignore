@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Stops the save file the to-do list script generates from being committed
+tasks.json
